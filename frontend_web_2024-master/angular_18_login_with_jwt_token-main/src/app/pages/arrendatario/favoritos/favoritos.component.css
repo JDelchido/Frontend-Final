@@ -1,0 +1,17 @@
+.arboles-lista, .favoritos-lista {
+  margin: 20px 0;
+}
+
+button {
+  display: block;
+  margin-bottom: 10px;
+  padding: 8px 12px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
